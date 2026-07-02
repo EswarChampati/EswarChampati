@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋 I'm Eswar
 
-<!--
-**EswarChampati/EswarChampati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | DevOps Engineer
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning Advanced Golang
+- Building Cloud Native Applications
+- Interested in Distributed Systems
+- Exploring Kubernetes & AWS
+
+## Tech Stack
+
+Languages
+- Go
+- JavaScript
+- TypeScript
+- SQL
+
+Frontend
+- React
+- Next.js
+- Tailwind CSS
+
+Backend
+- Node.js
+- Express
+- REST APIs
+- GraphQL
+- gRPC
+
+Databases
+- PostgreSQL
+- MongoDB
+- Redis
+- Prisma
+
+DevOps
+- Docker
+- Terraform
+- Ansible
+- GitHub Actions
+- AWS
+- Linux
+- Kubernetes
