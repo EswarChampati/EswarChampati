@@ -13,7 +13,7 @@ Building scalable backend systems, automating infrastructure, and exploring clou
 ## 👨‍💻 About Me
 
 - 💼 Software Engineer passionate about backend development and DevOps
-- 🌱 Currently learning **Advanced Golang**, **Distributed Systems**, **Kubernetes**, and **AWS**
+- 🌱 Currently learning **Kubernetes**, and **AWS**
 - 🚀 Interested in building scalable cloud-native applications
 - 🔧 Experienced with automation using **Ansible**, **GitHub Actions**, and **Terraform**
 - 📚 Always learning new technologies and best engineering practices
